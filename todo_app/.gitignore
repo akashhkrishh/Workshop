@@ -1,0 +1,49 @@
+# Flutter/Dart specific files
+*.iml
+*.metadata
+*.lock
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.build/
+.dart_tool/
+.idea/
+.vscode/
+.android/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/flutter_export_environment.sh
+
+# Android specific files
+android/.gradle/
+android/build/
+android/gradle/
+android/gradlew
+android/gradlew.bat
+android/local.properties
+
+# iOS specific files
+ios/.generated/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Podfile.lock
+ios/Pods/
+
+# macOS specific files
+macos/Flutter/AppFrameworkInfo.plist
+macos/Flutter/flutter_export_environment.sh
+macos/Pods/
+
+# Windows specific files
+windows/Flutter/flutter_export_environment.sh
+windows/Flutter/flutter_windows.dll
+windows/flutter/flutter_export.der
+windows/flutter/flutter_export.h
+
+# Flutter SDK dependencies (only include if you're managing the Flutter SDK in your repository)
+# bin/cache/
